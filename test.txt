@@ -1,8 +1,6 @@
 chunmianbujuexiao zheshiwodiyicitijiao
-<<<<<<< HEAD
 chuchuwentiniao   zhesshidiercitijiao
 yelaifengyusheng  zheshidisancitijiao
 hualuozhiduoshao  zheshidisicitijiao
-=======
 edit content to resolve properlm
->>>>>>> dev
+
